@@ -1,0 +1,18 @@
+.detail-info{
+    margin-top: 10px ;
+}
+.movie-info-sub{
+    display: flex;
+    justify-content: left;
+}
+.movie-info-sub div{
+    margin: 4px;
+    font-size: small;
+}
+.video-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; 
+    height: 100%; 
+}
