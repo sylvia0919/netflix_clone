@@ -1,7 +1,6 @@
 deploy URI: 
 https://magical-otter-cea36b.netlify.app/
 
-![Uploading image.png…]()
 
 
 
