@@ -1,6 +1,19 @@
 deploy URI: 
 https://magical-otter-cea36b.netlify.app/
 
+![image](https://github.com/sylvia0919/netflix_clone/assets/165385007/f0f01f92-c34d-4bad-a959-a0024eabfdce)
+
+
+![image](https://github.com/sylvia0919/netflix_clone/assets/165385007/74242d38-ff4d-4e1e-ae3b-93949c3a0985)
+
+
+![image](https://github.com/sylvia0919/netflix_clone/assets/165385007/50fd5ec2-edb6-4e64-b408-37ba0d44e153)
+
+![image](https://github.com/sylvia0919/netflix_clone/assets/165385007/caff9ffd-3daf-4d59-b75b-d85bd3b8c32d)
+
+
+![image](https://github.com/sylvia0919/netflix_clone/assets/165385007/7b399224-182c-4970-92c0-87de158dc0c7)
+
 
 
 
